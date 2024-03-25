@@ -1,0 +1,2 @@
+# Web scraping app using Jsoup and Android Studio
+In this project, we develop a web scraping API using Java and Jsoup. The API extracts attendance data from educational websites, specifically targeting student attendance records. By analyzing the HTML structure of these websites, we identify relevant DOM elements and retrieve attendance details. Additionally, the API calculates the number of bunkable classes based on predefined thresholds. The goal is to provide teachers and students with an efficient tool for monitoring attendance and making informed decisions.
